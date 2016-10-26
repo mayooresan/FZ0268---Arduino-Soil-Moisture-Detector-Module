@@ -21,8 +21,6 @@ Now run the source code in this repo and check the output.
 Sample setup
 -------------
 
- - List item
-
 ![Arduino setup](https://raw.githubusercontent.com/mayooresan/FZ0268---Arduino-Soil-Moisture-Detector-Module/master/setup.jpg)
 
 Sample output
