@@ -8,10 +8,10 @@ Connect Pins
 -------------
 FZ0268 soil moisture module has 4 pins in it.
 
-**GND** - Connect it to **GND** pin in the Arduino board.
-**VCC** - Connect it to the **5V** pin in the Arduino board.
-**DO** - Connect this digital out pin to **8** in the Arduino board.
-**AO** - Connect this analog out pin to **A0** in the Arduino board.
+- **GND** - Connect it to **GND** pin in the Arduino board.
+- **VCC** - Connect it to the **5V** pin in the Arduino board.
+- **DO** - Connect this digital out pin to **8** in the Arduino board.
+- **AO** - Connect this analog out pin to **A0** in the Arduino board.
 
 Now run the source code in this repo and check the output.
 
@@ -20,6 +20,8 @@ Now run the source code in this repo and check the output.
 
 Sample setup
 -------------
+
+ - List item
 
 ![Arduino setup](https://raw.githubusercontent.com/mayooresan/FZ0268---Arduino-Soil-Moisture-Detector-Module/master/setup.jpg)
 
